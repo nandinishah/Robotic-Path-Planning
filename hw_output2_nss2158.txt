@@ -1,0 +1,114 @@
+[' oooooooooooo                               oooooo       ', ' oooooooooooo            oooooooooooooooooooo            ', ' os         o oooooooooooo                               ', ' o          o                                            ', ' o          o                                         o  ', ' o          o                                    ooooo   ', ' o                                            oooo       ', ' o          o                            oooooo  o       ', 'oo          o                       ooooo        oo      ', 'oooooooooooooo                     oo             o      ', '       ooooo                oooo                  o      ', ' ooooooo                  ooo                     oo     ', '                        ooooo                      o     ', '                      ooo   ooo                    o     ', '                  oooo        oo                   o     ', '                ooo            ooooo     ooooooo ooooooo ', '        ooooo                      ooooooo             o ', '    ooooo                                oo            o ', '   oo                                     o            o ', '   o                                      o            o ', '                                                       oo', '                                          o             o', '                                          o             o', '   oooooooooooooooooooooooooooooooooooooooo            go', '                                         oooooooooooooooo']
+The arena of size 25x57
+ oooooooooooo                               oooooo       
+ oooooooooooo            oooooooooooooooooooo            
+ os         o oooooooooooo                               
+ o          o                                            
+ o          o                                         o  
+ o          o                                    ooooo   
+ o                                            oooo       
+ o          o                            oooooo  o       
+oo          o                       ooooo        oo      
+oooooooooooooo                     oo             o      
+       ooooo                oooo                  o      
+ ooooooo                  ooo                     oo     
+                        ooooo                      o     
+                      ooo   ooo                    o     
+                  oooo        oo                   o     
+                ooo            ooooo     ooooooo ooooooo 
+        ooooo                      ooooooo             o 
+    ooooo                                oo            o 
+   oo                                     o            o 
+   o                                      o            o 
+                                                       oo
+                                          o             o
+                                          o             o
+   oooooooooooooooooooooooooooooooooooooooo            go
+                                         oooooooooooooooo
+BFS algorithm called
+Goal Reached
+Number of iterations = 1126
+Number of steps = 74
+ oooooooooooo                               oooooo       
+ oooooooooooo            oooooooooooooooooooo            
+ os*********o oooooooooooo                               
+ o         *o                                            
+ o         *o                                         o  
+ o         *o                                    ooooo   
+ o         ************************           oooo       
+ o          o                     *      oooooo  o       
+oo          o                     * ooooo        oo      
+oooooooooooooo                    *oo             o      
+       ooooo                oooo  *************** o      
+ ooooooo                  ooo                   * oo     
+                        ooooo                   *  o     
+                      ooo   ooo                 *  o     
+                  oooo        oo                *  o     
+                ooo            ooooo     ooooooo*ooooooo 
+        ooooo                      ooooooo      *******o 
+    ooooo                                oo           *o 
+   oo                                     o           *o 
+   o                                      o           *o 
+                                                      *oo
+                                          o           **o
+                                          o            *o
+   oooooooooooooooooooooooooooooooooooooooo            go
+                                         oooooooooooooooo
+DFS algorithm called
+Goal Reached
+Number of iterations = 458
+Number of steps = 322
+ oooooooooooo                               oooooo*******
+ oooooooooooo            oooooooooooooooooooo******     *
+ os*********o oooooooooooo********************      *** *
+ o         *o**************                     *** * ***
+ o         *o*                ***   *** *** *** * *** o  
+ o         *o*   *** ***  *** * *   * * * * * ***ooooo   
+ o         ***   * * * *  * * * *   * * * *** oooo       
+ o          o    * * * *  * * * *  ** ***oooooo  o       
+oo          o    * * * *  * * * * **ooooo********oo      
+oooooooooooooo   * * * *  * *** * *oo*****      **o      
+       ooooo *** * * * * ** oooo* ****       *** *o      
+ ooooooo     * * * * * ***ooo   **       *** * * *oo     
+             * * * * *  ooooo    ** ***  * * * * **o     
+             * * * ***ooo***ooo   * * *  * * * ** *o     
+             * ***oooo**** ***oo  *** * ** ***  ***o     
+             ** ooo****      **ooooo  ***ooooooo ooooooo 
+        ooooo ******          *****ooooooo ************o 
+    ooooo                         *******oo*          *o 
+   oo                                   **o*          *o 
+   o                                     *o*          *o 
+                                         ***          *oo
+                                          o           **o
+                                          o            *o
+   oooooooooooooooooooooooooooooooooooooooo            go
+                                         oooooooooooooooo
+A* algorithm called
+Goal Reached
+Number of iterations = 103
+h(n) and g(n)/number of steps = 0.0   74
+ oooooooooooo                               oooooo       
+ oooooooooooo            oooooooooooooooooooo            
+ os*********o oooooooooooo                               
+ o         *o                                            
+ o         *o                                         o  
+ o         *o                                    ooooo   
+ o         ***********************            oooo       
+ o          o                    *       oooooo  o       
+oo          o                    *  ooooo        oo      
+oooooooooooooo                   **oo             o      
+       ooooo                oooo  **************  o      
+ ooooooo                  ooo                  *  oo     
+                        ooooo                  *   o     
+                      ooo   ooo                *   o     
+                  oooo        oo               **  o     
+                ooo            ooooo     ooooooo*ooooooo 
+        ooooo                      ooooooo      *******o 
+    ooooo                                oo           *o 
+   oo                                     o           *o 
+   o                                      o           *o 
+                                                      *oo
+                                          o           **o
+                                          o            *o
+   oooooooooooooooooooooooooooooooooooooooo            go
+                                         oooooooooooooooo

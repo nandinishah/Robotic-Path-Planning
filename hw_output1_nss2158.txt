@@ -1,0 +1,42 @@
+['        ', '  g     ', '  ooooo ', ' o      ', '  os  o ', '        ', '        ']
+The arena of size 7x8
+        
+  g     
+  ooooo 
+ o      
+  os  o 
+        
+        
+BFS algorithm called
+Goal Reached
+Number of iterations = 40
+Number of steps = 10
+        
+**g     
+* ooooo 
+*o      
+**os  o 
+ ***    
+        
+DFS algorithm called
+Goal Reached
+Number of iterations = 14
+Number of steps = 14
+     ***
+  g*** *
+  ooooo*
+ o *****
+  os  o 
+        
+        
+A* algorithm called
+Goal Reached
+Number of iterations = 22
+h(n) and g(n)/number of steps = 0.0   10
+        
+ *g     
+**ooooo 
+*o      
+**os  o 
+ ***    
+        

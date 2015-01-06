@@ -1,0 +1,154 @@
+['                                  o                                        o                    ', '                                  o                                        o                    ', '                o            ooooooooooo             ooooooo              oo                    ', '               oo                     oo          oooo     ooo           ooo                    ', '             oo o                     o          oo          oo         oo o                    ', '            oo  oo                   oo         o             oo       oo  o                    ', '          oo     o                   o         oo              oo          oo                   ', '         oo      o                  oo         o                oo          o                   ', '       oo        o            ooooooooo     o  oo                o          o                   ', '     ooo         o           oo     o ooooooo   o                oo         o                   ', '    oo           o                  o           oo                o         o                   ', '   oooooooooooooooooooooooo        o             o                o         o                   ', '                 o                 o             o                o         o                   ', '                 o                o               o               o         o                   ', '                 o               oo               oo            ooo         o                   ', '                 o               o                  oo        ooo           o                   ', '                 o               o                   oooooooooo         oooooooooooo            ', '                 o                                       o                                      ', 'ooooo  ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo     ooooooooo', '                                               oo                                               ', '                                    oo         oo oooooooooooooooooooo                          ', '                                    oo         o            o                                   ', '                                   oooo        o            o                                   ', '                                   o  oo       o            o                                   ', '                                   o   o       oo           oo                                  ', '                                  o  s oo       o            o  g                               ', '                                  o     oo      o            o                                  ', '                                 oooo ooooo     o            o                                  ', '                                oo        oo    o            o                                  ', '                               oo          oo   o            o                                  ', '                               o            o   o            o                                  ', '                              o             oo  o  ooooooooooooooooooooo                        ', '                              o              o  o                                               ', '                                                o                                               ', '                                                o                                               ']
+The arena of size 35x96
+                                  o                                        o                    
+                                  o                                        o                    
+                o            ooooooooooo             ooooooo              oo                    
+               oo                     oo          oooo     ooo           ooo                    
+             oo o                     o          oo          oo         oo o                    
+            oo  oo                   oo         o             oo       oo  o                    
+          oo     o                   o         oo              oo          oo                   
+         oo      o                  oo         o                oo          o                   
+       oo        o            ooooooooo     o  oo                o          o                   
+     ooo         o           oo     o ooooooo   o                oo         o                   
+    oo           o                  o           oo                o         o                   
+   oooooooooooooooooooooooo        o             o                o         o                   
+                 o                 o             o                o         o                   
+                 o                o               o               o         o                   
+                 o               oo               oo            ooo         o                   
+                 o               o                  oo        ooo           o                   
+                 o               o                   oooooooooo         oooooooooooo            
+                 o                                       o                                      
+ooooo  ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo     ooooooooo
+                                               oo                                               
+                                    oo         oo oooooooooooooooooooo                          
+                                    oo         o            o                                   
+                                   oooo        o            o                                   
+                                   o  oo       o            o                                   
+                                   o   o       oo           oo                                  
+                                  o  s oo       o            o  g                               
+                                  o     oo      o            o                                  
+                                 oooo ooooo     o            o                                  
+                                oo        oo    o            o                                  
+                               oo          oo   o            o                                  
+                               o            o   o            o                                  
+                              o             oo  o  ooooooooooooooooooooo                        
+                              o              o  o                                               
+                                                o                                               
+                                                o                                               
+BFS algorithm called
+Goal Reached
+Number of iterations = 2457
+Number of steps = 229
+                                  o                                        o                    
+  ***************************     o          **************************    o                    
+  *             o           *ooooooooooo     *       ooooooo          *   oo                    
+  *            oo           *         oo     *    oooo     ooo        *  ooo                    
+  *          oo o           *         o      *   oo          oo       * oo o                    
+  *         oo  oo          *        oo      *  o             oo      *oo  o                    
+  *       oo     o          *        o       * oo              oo     **   oo                   
+  *      oo      o          *       oo       * o                oo     *    o                   
+  *    oo        o          * ooooooooo     o* oo                o     *    o                   
+  *  ooo         o          *oo     o ooooooo*  o                oo    *    o                   
+  * oo           o          *****   o*********  oo                o    *    o                   
+  *oooooooooooooooooooooooo     *  o**           o                o    *    o                   
+  *****          o              *  o*            o                o    *    o                   
+      *          o              * o**             o               o    *    o                   
+      *          o              *oo*              oo            ooo    *    o                   
+      *          o              *o**                oo        ooo      *    o                   
+      *          o              *o*                  oooooooooo        *oooooooooooo            
+      *          o              ***                      o             ************             
+ooooo *ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo*    ooooooooo
+      ************************                 oo                                 *             
+                             *      oo         oo oooooooooooooooooooo            *             
+                             *      oo         o            o                     *             
+                             *     oooo        o            o                     *             
+                             *     o  oo       o            o                     *             
+                             *     o   o       oo           oo                    *             
+                             *    o  s oo       o            o  g******************             
+                             *    o  *  oo      o            o                                  
+                             *   oooo*ooooo     o            o                                  
+                             *  oo   *    oo    o            o                                  
+                             * oo    *     oo   o            o                                  
+                             * o     *      o   o            o                                  
+                             *o      *      oo  o  ooooooooooooooooooooo                        
+                             *o      *       o  o                                               
+                             *********          o                                               
+                                                o                                               
+DFS algorithm called
+Goal Reached
+Number of iterations = 1066
+Number of steps = 877
+  ***************************     o          ***************************** o        ************
+  *                         *     o          *                           * o        *          *
+  *             o       *** *ooooooooooo     *       ooooooo            **oo        *  *** *** *
+  *            oo       * * ********* oo     *    oooo     ooo         **ooo        *  * * * * *
+  *          oo o       * **        * o      *   oo          oo       **oo o        *  * * * * *
+  *         oo  oo      ** *** ***  *oo      *  o             oo      *oo  o        *  * * * * *
+  *       oo     o       **  * * * **o       * oo              oo     *****oo       *  * * * * *
+  *      oo      o        ** *** ***oo       * o                oo        **o       *  * * * * *
+  *    oo        o         ** ooooooooo     o* oo                o     *** *o       *  * * * * *
+  *  ooo         o          *oo**** o ooooooo*  o                oo    * * *o       *  * * * * *
+  * oo           o          ****  * o*********  oo                o    * * *o       *  * * * * *
+  *oooooooooooooooooooooooo       *o**           o                o    * * *o       *  * * * * *
+  * ***          o               **o*            o                o    * * *o       *  * * * * *
+  * * *          o              **o**             o               o    * * *o       *  * * * * *
+  * * *          o              *oo*              oo            ooo    * * *o       *  * * * * *
+  * * *          o              *o**                oo        ooo      * ***o       *  * * * * *
+  * * *          o              *o*                  oooooooooo        *oooooooooooo*  * * * * *
+  *** *          o              ***                      o             ************** ** *** ***
+ooooo *ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo    *ooooooooo
+      ** *** *** *** *** ***       **** *** ***oo                     *** *** *** *** **********
+       * * * * * * * * * * *       *oo* * * * *oo oooooooooooooooooooo* * * * * * * **         *
+       * * * * * * * * * * *      **oo*** * * *o            o     *** * * * * * * ** * *** *** *
+       * * * * * * * * * * *      *oooo   * * *o            o     * * * * * * * ** * * * * * * *
+       * * * * * * * * * * *      *o  oo  * * *o            o     * * * * * * ** * * * * * * * *
+       * * * * * * * * * * *     **o   o  * * *oo           oo    * * * * * ** * * * * * * * * *
+       * * * * * * * * * * *     *o  s oo * * * o            o  g * * * * ** * * * * * * * * * *
+       * * * * * * * * * * *    **o  *  oo*** * o            o  * * * * ** * * * * * * * * * * *
+       * * * * * * * * * * *   **oooo*ooooo   * o            o  * * * ** * * * * * * * * * * * *
+       * * * * * * * * * * *  **oo   *****oo  * o            o  * * ** * * * * * * * * * * * * *
+       * * * * * * * * * * *  *oo        **oo * o            o  * *  * * * * * * * * * * * * * *
+       * * * * * * * * * * * **o          **o * o            o  ***  *** * * * * * * * * * * * *
+       * * * * * * * * * * * *o            *oo* o  ooooooooooooooooooooo * * * * * * * * * * * *
+       * * * * * * * * * * * *o            **o* o                        * * * * * * * * * * * *
+       * * * * * * * * * * * *              *** o                        * * * * * * * * * * * *
+       *** *** *** *** *** ***                  o                        *** *** *** *** *** ***
+A* algorithm called
+Goal Reached
+Number of iterations = 1725
+h(n) and g(n)/number of steps = 0.0   229
+                                  o                                        o                    
+               **************     o                 *************          o                    
+              **o           *ooooooooooo         ****ooooooo    *         oo                    
+            ***oo           *         oo        **oooo     ooo  *        ooo                    
+           **oo o           *         o        **oo          oo *       oo o                    
+         ***oo  oo          *        oo       **o             oo**     oo  o                    
+        **oo     o          *        o        *oo              oo**        oo                   
+      ***oo      o          *       oo        *o                oo*         o                   
+    ***oo        o          * ooooooooo     o *oo                o**        o                   
+   **ooo         o          *oo     o ooooooo * o                oo*        o                   
+  **oo           o          *****   o         * oo                o*        o                   
+  *oooooooooooooooooooooooo     *  o          *  o                o*        o                   
+  **             o              *  o          *  o                o*        o                   
+   **            o              * o           *   o               o*        o                   
+    **           o              *oo           *   oo            ooo*        o                   
+     **          o              *o            *     oo        ooo  *        o                   
+      *          o              *o            *      oooooooooo    *    oooooooooooo            
+      *          o              ***************          o         ****************             
+ooooo *ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo*    ooooooooo
+      *                                        oo                     *************             
+      **                            oo         oo oooooooooooooooooooo*                         
+       **                           oo         o            o   *******                         
+        **                         oooo        o            o   *                               
+         **                        o  oo       o            o   *                               
+          *                        o   o       oo           oo  *                               
+          *******************     o  s oo       o            o  g                               
+                            *     o  *  oo      o            o                                  
+                            *    oooo*ooooo     o            o                                  
+                            *   oo ***    oo    o            o                                  
+                            ** oo  *       oo   o            o                                  
+                             * o  **        o   o            o                                  
+                             *o  **         oo  o  ooooooooooooooooooooo                        
+                             *o **           o  o                                               
+                             ****               o                                               
+                                                o                                               
